@@ -1,5 +1,6 @@
 package idv.masqurin.opendata;
 
+import android.app.ProgressDialog;
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -24,7 +25,27 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private class GetOpenDataTask extends AsyncTask<String, Void, String> {
-        
+
+        private ProgressDialog progressDialog;
+
+        @Override
+        protected void onPreExecute() {
+//            super.onPreExecute();
+            progressDialog = new ProgressDialog(MainActivity.this);
+            progressDialog.setMessage("Downloading...");
+            progressDialog.show();
+        }
+
+        @Override
+        protected String doInBackground(String... strings) {
+
+            return null;
+        }
+
+        @Override
+        protected void onPostExecute(String s) {
+            super.onPostExecute(s);
+        }
     }
 
 }
