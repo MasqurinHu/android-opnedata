@@ -53,12 +53,12 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/idv/masqurin/opendata/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+            <state relative-caret-position="460">
+              <caret line="92" column="31" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1404#1405#0" expanded="true" />
-                <element signature="e#1450#1451#0" expanded="true" />
+                <element signature="e#1093#1267#0" expanded="true" />
+                <element signature="e#1266#1267#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2045,6 +2045,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="device.picker.selection" value="988627314a5a304343" />
   </component>
   <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -2171,7 +2172,7 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
@@ -2337,12 +2338,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/idv/masqurin/opendata/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        <state relative-caret-position="460">
+          <caret line="92" column="31" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1404#1405#0" expanded="true" />
-            <element signature="e#1450#1451#0" expanded="true" />
+            <element signature="e#1093#1267#0" expanded="true" />
+            <element signature="e#1266#1267#0" expanded="true" />
           </folding>
         </state>
       </provider>
